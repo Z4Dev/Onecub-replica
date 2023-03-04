@@ -54,7 +54,7 @@ const App = () => {
                             <img src={Twitter} alt="" />
                             <div className="column">
                                 <div className="title">Twitter</div>
-                                <div className="subtitle">@RocketMta</div>
+                                <div className="subtitle">@Project</div>
                             </div>
                         </div>
                     </C.SocialMedia>
