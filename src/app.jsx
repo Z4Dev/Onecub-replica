@@ -63,7 +63,7 @@ const App = () => {
                             <img src={Discord} alt="" />
                             <div className="column">
                                 <div className="title">Discord</div>
-                                <div className="subtitle">discord.gg/rocketmta</div>
+                                <div className="subtitle">discord.gg/project</div>
                             </div>
                         </div>
                     </C.SocialMedia>
@@ -72,7 +72,7 @@ const App = () => {
                             <img src={Youtube} alt="" />
                             <div className="column">
                                 <div className="title">Youtube</div>
-                                <div className="subtitle">@RocketMta</div>
+                                <div className="subtitle">@Project</div>
                             </div>
                         </div>
                     </C.SocialMedia>
@@ -81,12 +81,12 @@ const App = () => {
                             <img src={Teamspeak} alt="" />
                             <div className="column">
                                 <div className="title">TeamSpeak</div>
-                                <div className="subtitle">ts.rocket.mta</div>
+                                <div className="subtitle">ts.project.com</div>
                             </div>
                         </div>
                     </C.SocialMedia>
                 </C.SocialMedias>
-                <C.BottomText position="left">Rocket MTA・2022 - Todos os direitos reservados </C.BottomText>
+                <C.BottomText position="left">Project・2023 - Todos os direitos reservados </C.BottomText>
                 <C.BottomText position="right">Não somos afiliados com Mojang. </C.BottomText>
             </C.Header>
         </C.Container>
