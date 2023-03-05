@@ -217,10 +217,6 @@ export const SocialMedias = styled.div`
     top: 80%;
     display: flex;
     flex-direction: row;
-
-    @media screen and (max-height: 805px) {
-        top:85%
-    }
 `
 
 export const SocialMedia = styled.div`
@@ -277,7 +273,7 @@ export const SocialMedia = styled.div`
     }
 
     @media screen and (max-height: 805px) {
-        height: 70px;
+        display: none;
     }
 `
 
