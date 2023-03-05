@@ -67,6 +67,13 @@ export const Header = styled.header`
             color: #CACACA;;
         }
     }
+
+    @media screen and (max-height: 805px) {
+        li {
+            margin: 0 5px;
+            margin-top: 15px;
+        }
+    }
 `;
 
 export const Forms = styled.div`
@@ -97,6 +104,8 @@ export const Forms = styled.div`
         line-height: 24px;
         color: rgba(255, 255, 255, 0.6);
     }
+
+    
 `;
 
 export const Form = styled.form`
